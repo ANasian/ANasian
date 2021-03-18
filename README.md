@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ANasian and I'm currently live in Italy
+- 👋 Hi, I’m @ANasian and I'm currently live in Italy Hello EveryOne!
+
+Trying to switch my professional career towards the beautiful software development world! I'm doing my best for succeding but it's not easy to get noticed since I have a MS in Business Management. BUT I want to switch, so I'm here for studying and learning by doing.
+
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning the basic of Programming, CS foundamentals and Web development because I really want to push myself in a carrer-change towards 
      these fields.
 - 💞️ I’m looking to collaborate with whoever has the willingness of teaming up with a person with currently low experience but determined in reaching his goals
      and learn programming to bring value.
 - 📫 How to reach me nasi.andrea93@gmail.com
+
+Let's do it!
 
 <!---
 ANasian/ANasian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
