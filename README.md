@@ -9,7 +9,7 @@ Trying to switch my professional career towards the beautiful software developme
      and learn programming to bring value.
 - 📫 How to reach me nasi.andrea93@gmail.com
 
-- ---> My Lewagon Final Projects 📱webApp [Handyfarm](https://www.handyfarm.net)
+- ---> My Lewagon Final Projects Mobile webApp📱 [Handyfarm](https://www.handyfarm.net)
 
 Let's do it!
 
