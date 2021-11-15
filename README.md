@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @nasiand and I'm currently live in Italy Hello EveryOne!
+## <p align="center">👋 Hi, I’m Andrea Nasi</p>
+
+### <p align="center">Passionate Web Developer Wannabe</p> 
 
 Trying to switch my professional career towards the beautiful software development world! I'm doing my best for succeding but it's not easy to get noticed since I have a MS in Business Management. BUT I want to switch, so I'm here for studying and learning by doing.
 
